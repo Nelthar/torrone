@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!--https://www.transifex.com/projects/p/telegram/language/pt_BR/members/-->
+<!--https://github.com/Nelthar/torrone/blob/master/torrone.xml-->
 
 <resources>
     <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppNameBeta">Telegram Betinha</string>
     <string name="LanguageName">Português (Brasil)</string>
     <string name="English">Inglês</string>
     <string name="LanguageNameInEnglish">Portuguese (Brazil)</string>
@@ -95,24 +95,24 @@
     <string name="PaymentWarning">Atenção</string>
     <string name="PaymentWarningText">Nem o Telegram, nem %1$s terão acesso ao número do seu cartão de crédito. Os detalhes do cartão de crédito serão tratados apenas pelo sistema de pagamentos, %2$s.\n\nPagamentos irão diretamente para o desenvolvedor de %1$s. O Telegram não pode prover qualquer garantia, então proceda por sua conta e risco. Em caso de problemas, contate o desenvolvedor de %1$s ou o seu banco.</string>
     <!--chats view-->
-    <string name="NewConversationShortcut">Nova conversa</string>
+    <string name="NewConversationShortcut">Trocar nudes</string>
     <string name="Settings">Configurações</string>
-    <string name="Contacts">Contatos</string>
-    <string name="NewGroup">Novo Grupo</string>
+    <string name="Contacts">Contatinhos</string>
+    <string name="NewGroup">Criar panelinha</string>
     <string name="Yesterday">ontem</string>
-    <string name="NoResult">Nenhum resultado</string>
-    <string name="NoChats">Ainda não há chats...</string>
+    <string name="NoResult">:/</string>
+    <string name="NoChats">Forever alone…</string>
     <string name="NoChatsHelp">Comece a conversar pressionando o\nbotão \'Nova Mensagem\' no canto inferior direito\nou vá para a seção \'Contatos\'.</string>
-    <string name="WaitingForNetwork">Aguardando rede...</string>
-    <string name="Connecting">Conectando...</string>
-    <string name="ConnectingToProxy">Conectando ao proxy...</string>
-    <string name="ConnectingToProxyTapToDisable">Toque para desabilitar o proxy...</string>
+    <string name="WaitingForNetwork">Tá sem internet</string>
+    <string name="Connecting">Tá difícil…</string>
+    <string name="ConnectingToProxy">Maldito proxy…</string>
+    <string name="ConnectingToProxyTapToDisable">Deixa de ser anonymous</string>
     <string name="ConnectingToProxyDisable">Desativar</string>
     <string name="ConnectingToProxyEnable">Ativar</string>
-    <string name="EnableProxyAlert">Você tem certeza que deseja habilitar o proxy?</string>
-    <string name="EnableProxyAlert2">Você pode alterar seu servidor proxy nas Configurações (Dados e Armazenamento).</string>
+    <string name="EnableProxyAlert">Você tem certeza que quer ser anonymous?</string>
+    <string name="EnableProxyAlert2">Você pode alterar seu proxy de anonymous nas Configurações (Dados e Armazenamento).</string>
     <string name="ConnectingToProxyDisableAlert">Você tem certeza que deseja desabilitar o servidor proxy %1$s? Você pode reabilitá-lo depois nas Configurações (Dados e Armazenamento).</string>
-    <string name="Updating">Atualizando...</string>
+    <string name="Updating">Espera, porra</string>
     <string name="NewSecretChat">Novo Chat Secreto</string>
     <string name="AwaitingEncryption">Esperando %s se conectar...</string>
     <string name="EncryptionRejected">Chat secreto cancelado</string>
@@ -123,7 +123,7 @@
     <string name="ClearHistoryCache">Apagar do cache</string>
     <string name="DeleteChat">Apagar e sair</string>
     <string name="DeleteChatUser">Apagar conversa</string>
-    <string name="HiddenName">Conta Excluída</string>
+    <string name="HiddenName">­</string>
     <string name="SelectChat">Selecione um Chat</string>
     <string name="PhotoTip">Toque e segure para ver</string>
     <string name="DisappearingPhoto">Foto Secreta</string>
@@ -157,10 +157,10 @@
     <string name="ContactsPermissionAlertNotNow">AGORA NÃO</string>
     <string name="ContactsPermissionAlertContinue">CONTINUAR</string>
     <!--channels-->
-    <string name="ChannelTypePublic">Público</string>
-    <string name="ChannelTypePrivate">Privado</string>
-    <string name="SetAsAdmin">Promover a administrador</string>
-    <string name="NoBlockedUsers">Nenhum usuário banido</string>
+    <string name="ChannelTypePublic">Noob</string>
+    <string name="ChannelTypePrivate">Anonymous</string>
+    <string name="SetAsAdmin">Contratar</string>
+    <string name="NoBlockedUsers">Mete o ban</string>
     <string name="DescriptionInfoMega">Você pode fornecer uma descrição opcional para seu grupo.</string>
     <string name="LeaveMega">Sair do Grupo</string>
     <string name="DeleteMega">Apagar Grupo</string>
@@ -170,7 +170,7 @@
     <string name="MegaAdminsInfo">Você pode adicionar administradores para ajudar você a gerenciar seu grupo. Toque e segure para removê-los.</string>
     <string name="MegaDeleteAlert">Espere! Apagar este grupo removerá todos os membros e todas as mensagens serão perdidas. Apagar o grupo mesmo assim?</string>
     <string name="ActionCreateMega">Grupo criado</string>
-    <string name="MegaAddedBy">un1 adicionou você ao grupo</string>
+    <string name="MegaAddedBy">un1 te enfiou aqui</string>
     <string name="MegaLeaveAlert">Você tem certeza que deseja sair do grupo?</string>
     <string name="GroupUserCantAdd">Desculpe, você não pode adicionar este usuário a grupos.</string>
     <string name="GroupUserAddLimit">Desculpe, este grupo está cheio.</string>
@@ -194,25 +194,25 @@
     <string name="ActionMigrateFromGroupNotify">%1$s foi convertido a um supergrupo</string>
     <string name="NoBlockedGroup">Usuários banidos são removidos do grupo e só podem voltar se convidados por um administrador. Convites por link não funcionam para eles.</string>
     <string name="NoBlockedChannel">Usuários banidos são removidos do canal e só podem voltar se convidados por um administrador. Convites por link não funcionam para eles.</string>
-    <string name="NewChannel">Novo Canal</string>
-    <string name="EnterChannelName">Nome do canal</string>
-    <string name="AddMutual">Adicionar contatos no canal</string>
-    <string name="ChannelUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar seu canal usando a busca do Telegram.</string>
-    <string name="MegaUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar o seu grupo usando a busca do Telegram.</string>
+    <string name="NewChannel">Criar bloguezinho</string>
+    <string name="EnterChannelName">Nome do bloguezinho</string>
+    <string name="AddMutual">Adicionar contatinhos no bloguezinho</string>
+    <string name="ChannelUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar seu bloguezinho usando a busca do Telegram.</string>
+    <string name="MegaUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar a sua panelinha usando a busca do Telegram.</string>
     <string name="ChannelUsernamePlaceholder">link</string>
-    <string name="ChannelPrivateLinkHelp">Pessoas podem entrar em seu canal com este link. Você pode desativar o link quando quiser.</string>
-    <string name="MegaPrivateLinkHelp">Pessoas podem entrar em seu canal com este link. Você pode desativar o link quando quiser.</string>
+    <string name="ChannelPrivateLinkHelp">Pessoas podem entrar em seu bloguezinho anonymous com este link. Você pode desativar o link quando quiser.</string>
+    <string name="MegaPrivateLinkHelp">Pessoas podem entrar em sua panelinha anonymous com este link. Você pode desativar o link quando quiser.</string>
     <string name="DescriptionOptionalPlaceholder">Descrição (opcional)</string>
     <string name="DescriptionPlaceholder">Descrição</string>
-    <string name="DescriptionInfo">Você pode providenciar uma descrição opcional para o seu canal.</string>
-    <string name="ChannelPublic">Canal Público</string>
-    <string name="MegaPublic">Grupo Público</string>
-    <string name="ChannelPublicInfo">Canais públicos podem ser encontrados na busca, qualquer um pode entrar.</string>
-    <string name="MegaPublicInfo">Grupos públicos podem ser encontrados na busca, o histórico é disponível para todos e qualquer um pode entrar.</string>
-    <string name="ChannelPrivate">Canal Privado</string>
-    <string name="MegaPrivate">Grupo Privado</string>
-    <string name="ChannelPrivateInfo">Canais privados só podem ser aderidos através de um link de convite.</string>
-    <string name="MegaPrivateInfo">Grupos privados só podem ser aderidos através de um link de convite.</string>
+    <string name="DescriptionInfo">Você pode providenciar uma descrição opcional para o seu bloguezinho.</string>
+    <string name="ChannelPublic">Bloguezinho Noob</string>
+    <string name="MegaPublic">Panelinha Noob</string>
+    <string name="ChannelPublicInfo">Bloguezinhos Noobs podem ser encontrados na busca, qualquer um pode entrar.</string>
+    <string name="MegaPublicInfo">Panelinhas Noobs podem ser encontradas na busca, o histórico é disponível para todos e qualquer um pode entrar.</string>
+    <string name="ChannelPrivate">Bloguezinho Anonymous</string>
+    <string name="MegaPrivate">Panelinha Anonymous</string>
+    <string name="ChannelPrivateInfo">Bloguezinhos Anonymous só podem ser aderidos através de um link de convite.</string>
+    <string name="MegaPrivateInfo">Panelinhas Anonymous só podem ser aderidos através de um link de convite.</string>
     <string name="ChannelLinkTitle">Link</string>
     <string name="ChannelInviteLinkTitle">Link de Convite</string>
     <string name="ChannelAddMembers">Adicionar membros</string>
@@ -222,16 +222,16 @@
     <string name="ChannelJoin">ENTRAR</string>
     <string name="ChannelBroadcast">Transmissão</string>
     <string name="ChannelSilentBroadcast">Mensagem Silenciosa</string>
-    <string name="ChannelAlertTitle">O que é um Canal?</string>
-    <string name="ChannelAlertText">Canais são uma nova ferramenta para transmissão de suas mensagens para grandes audiências.</string>
-    <string name="ChannelAlertCreate">CRIAR CANAL</string>
+    <string name="ChannelAlertTitle">O que é um bloguezinho?</string>
+    <string name="ChannelAlertText">Bloguezinhos são uma nova ferramenta para transmissão de suas mensagens para grandes audiências.</string>
+    <string name="ChannelAlertCreate">CRIAR BLOGUEZINHO</string>
     <string name="LinkInUse">Desculpe, esse nome já está em uso.</string>
     <string name="LinkInvalid">Desculpe, esse nome é inválido.</string>
-    <string name="LinkInvalidShort">Nome do canal deve ter pelo menos 5 caracteres.</string>
+    <string name="LinkInvalidShort">Nome do bloguezinho deve ter pelo menos 5 caracteres.</string>
     <string name="LinkInvalidLong">O nome não pode exceder 32 caracteres.</string>
-    <string name="LinkInvalidStartNumber">Nome do canal não pode iniciar com número.</string>
-    <string name="LinkInvalidShortMega">Nome do grupo deve ter pelo menos 5 caracteres.</string>
-    <string name="LinkInvalidStartNumberMega">Nome do grupo não pode iniciar com número.</string>
+    <string name="LinkInvalidStartNumber">Nome do bloguezinho não pode iniciar com número.</string>
+    <string name="LinkInvalidShortMega">Nome da panelinha deve ter pelo menos 5 caracteres.</string>
+    <string name="LinkInvalidStartNumberMega">Nome da panelinha não pode iniciar com número.</string>
     <string name="LinkChecking">Verificando nome...</string>
     <string name="LinkAvailable">%1$s está disponível.</string>
     <string name="ChannelMembers">Membros</string>
