@@ -8,7 +8,7 @@
     <string name="LanguageName">Huês (Huesil)</string>
     <string name="English">Inglês</string>
     <string name="LanguageNameInEnglish">Huese (Huezil)</string>
-    <string name="LanguageCode">39472</string>
+    <string name="LanguageCode">pt_hue</string>
     <string name="ContinueOnThisLanguage">Continuar em Huês</string>
     <!--signin view-->
     <string name="YourPhone">Seu número</string>
