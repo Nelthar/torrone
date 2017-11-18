@@ -106,19 +106,19 @@
     <string name="WaitingForNetwork">Você tá sem internet</string>
     <string name="Connecting">Tá difícil…</string>
     <string name="ConnectingToProxy">Maldito proxy…</string>
-    <string name="ConnectingToProxyTapToDisable">Deixa de ser anonymous</string>
+    <string name="ConnectingToProxyTapToDisable">Toque para desabilitar o proxy...</string>
     <string name="ConnectingToProxyDisable">Desativar</string>
     <string name="ConnectingToProxyEnable">Ativar</string>
-    <string name="EnableProxyAlert">Você tem certeza que quer ser anonymous?</string>
-    <string name="EnableProxyAlert2">Você pode alterar seu proxy de anonymous nas Configurações (Dados e Armazenamento).</string>
+    <string name="EnableProxyAlert">Você tem certeza que deseja habilitar o proxy?</string>
+    <string name="EnableProxyAlert2">Você pode alterar seu servidor proxy nas Configurações (Dados e Armazenamento).</string>
     <string name="ConnectingToProxyDisableAlert">Você tem certeza que deseja desabilitar o servidor proxy %1$s? Você pode reabilitá-lo depois nas Configurações (Dados e Armazenamento).</string>
     <string name="Updating">Preparando o café…</string>
-    <string name="NewSecretChat">Novo Chat Secreto</string>
+    <string name="NewSecretChat">Criar chat anonymous</string>
     <string name="AwaitingEncryption">Esperando %s se conectar...</string>
-    <string name="EncryptionRejected">Chat secreto cancelado</string>
+    <string name="EncryptionRejected">Chat anonymous cancelado</string>
     <string name="EncryptionProcessing">Trocando chaves de criptografia...</string>
-    <string name="EncryptedChatStartedOutgoing">%s entrou no chat secreto</string>
-    <string name="EncryptedChatStartedIncoming">Você entrou no chat secreto</string>
+    <string name="EncryptedChatStartedOutgoing">%s entrou no chat anonymous</string>
+    <string name="EncryptedChatStartedIncoming">Você entrou no chat anonymous</string>
     <string name="ClearHistory">Limpar histórico</string>
     <string name="ClearHistoryCache">Apagar do cache</string>
     <string name="DeleteChat">Apagar e sair</string>
@@ -126,8 +126,8 @@
     <string name="HiddenName">­</string>
     <string name="SelectChat">Selecione um Chat</string>
     <string name="PhotoTip">Toque e segure para ver</string>
-    <string name="DisappearingPhoto">Foto Secreta</string>
-    <string name="DisappearingVideo">Vídeo Secreto</string>
+    <string name="DisappearingPhoto">Foto Anonymous</string>
+    <string name="DisappearingVideo">Vídeo Anonymous</string>
     <string name="CompatibilityChat">%1$s está usando uma versão mais antiga do Telegram, por isso fotos secretas serão mostradas em modo de compatibilidade.\n\nAssim que %2$s atualizar o Telegram, fotos com timers de 1 minuto ou menos passarão a funcionar no modo ‘Toque e segure para ver’, e você será notificado caso a outra pessoa salve a tela.</string>
     <string name="SearchMessages">MENSAGENS</string>
     <string name="Search">Busca</string>
@@ -484,9 +484,9 @@
     <string name="TypeMessage">Mensagem</string>
     <string name="ShareMyContactInfo">Compartilhar meu contato</string>
     <string name="AddToContacts">Adicionar aos contatos</string>
-    <string name="EncryptedPlaceholderTitleIncoming">%s convidou você para um chat secreto</string>
-    <string name="EncryptedPlaceholderTitleOutgoing">Você convidou %s para um chat secreto.</string>
-    <string name="EncryptedDescriptionTitle">Chats Secretos:</string>
+    <string name="EncryptedPlaceholderTitleIncoming">%s convidou você para um chat anonymous</string>
+    <string name="EncryptedPlaceholderTitleOutgoing">Você convidou %s para um chat anonymous.</string>
+    <string name="EncryptedDescriptionTitle">Chats Anonymous:</string>
     <string name="EncryptedDescription1">Criptografia de ponta-a-ponta</string>
     <string name="EncryptedDescription2">Sem rastros nos servidores</string>
     <string name="EncryptedDescription3">Timer de autodestruição</string>
@@ -739,7 +739,7 @@
     <string name="UserBio">Bio</string>
     <string name="UserBioEmpty">Nenhuma</string>
     <string name="UserBioInfo">Você pode adicionar algumas linhas sobre você. Qualquer um que abra seu perfil verá esse texto.</string>
-    <string name="StartEncryptedChat">Iniciar Chat Secreto</string>
+    <string name="StartEncryptedChat">Iniciar Chat Anonymous</string>
     <string name="GroupsInCommon">Panelinhas em Comum</string>
     <string name="GroupsInCommonTitle">Panelinhas em Comum</string>
     <string name="NoGroupsInCommon">Nenhum Panelinha em comum</string>
@@ -749,7 +749,7 @@
     <string name="MessageLifetimePhoto">Se você definir um temporizador, a foto irá se auto-destruir após ser vista.</string>
     <string name="MessageLifetimeVideo">Se você definir um temporizador, o vídeo irá se auto-destruir após ser visto.</string>
     <string name="ShortMessageLifetimeForever">Desativado</string>
-    <string name="EncryptionKeyDescription">Essa imagem e texto foram derivadas da chave criptográfica para esse chat secreto com <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.\n\nSe você vê o mesmo no dispositivo de <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, a criptografia ponta a ponta está garantida.</string>
+    <string name="EncryptionKeyDescription">Essa imagem e texto foram derivadas da chave criptográfica para esse chat anonymous com <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.\n\nSe você vê o mesmo no dispositivo de <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, a criptografia ponta a ponta está garantida.</string>
     <string name="EncryptionKeyLink">https://telegram.org/faq/br#chats-secretos</string>
     <string name="TapToEmojify">Toque para emojizar</string>
     <string name="NumberUnknown">Desconhecido</string>
@@ -947,7 +947,7 @@
     <string name="SmartNotificationsAlert">Frequência do Alerta de Som</string>
     <string name="SmartNotificationsDetail">%1$s em %2$s</string>
     <string name="SecretWebPage">Pré-visualização de Link</string>
-    <string name="SecretChat">Chats secretos</string>
+    <string name="SecretChat">Chats Anonymous</string>
     <string name="ChromeCustomTabs">Navegador Interno</string>
     <string name="ChromeCustomTabsInfo">Abrir links externos com o aplicativo</string>
     <string name="DirectShare">Compartilhamento Direto</string>
@@ -1005,7 +1005,7 @@
     <!--passcode view-->
     <string name="Passcode">Senha de Bloqueio</string>
     <string name="ChangePasscode">Alterar Senha</string>
-    <string name="ChangePasscodeInfo">Quando você define uma senha adicional, um ícone de cadeado aparece na página de chats. Clique para bloquear e desbloquear o app.\n\nNota: se você esquecer a sua senha, terá de excluir e reinstalar o app. Todos os chats secretos serão perdidos.</string>
+    <string name="ChangePasscodeInfo">Quando você define uma senha adicional, um ícone de cadeado aparece na página de chats. Clique para bloquear e desbloquear o app.\n\nNota: se você esquecer a sua senha, terá de excluir e reinstalar o app. Todos os chats anonymous serão perdidos.</string>
     <string name="ChangePasscodeAlert">Você verá o ícone do cadeado na página de chats. Clique para bloquear seu app do Telegram com a sua nova senha.</string>
     <string name="PasscodePIN">PIN</string>
     <string name="PasscodePassword">Senha</string>
@@ -1345,7 +1345,7 @@
     <string name="SendMessagesTo">Enviar mensagens para %1$s?</string>
     <string name="SendGameTo">Compartilhar jogo com %1$s?</string>
     <string name="SendContactTo">Enviar contato para %1$s?</string>
-    <string name="AreYouSureLogout">Você tem certeza que desejar sair?\n\nSaiba que você pode usar o Telegram em vários dispositivos de uma vez.\n\nLembre-se, sair apaga todos os seus Chats Secretos.</string>
+    <string name="AreYouSureLogout">Você tem certeza que desejar sair?\n\nSaiba que você pode usar o Telegram em vários dispositivos de uma vez.\n\nLembre-se, sair apaga todos os seus Chats Anonymous.</string>
     <string name="AreYouSureSessions">Você tem certeza que deseja terminar todas as outras sessões?</string>
     <string name="AreYouSureDeleteAndExit">Você tem certeza que apagar e sair da panelinha?</string>
     <string name="AreYouSureDeleteThisChat">Você tem certeza que deseja apagar esta conversa?</string>
@@ -1361,7 +1361,7 @@
     <string name="AreYouSureBlockContact">Você tem certeza que deseja bloquear este contato?</string>
     <string name="AreYouSureUnblockContact">Você tem certeza que deseja desbloquear este contato?</string>
     <string name="AreYouSureDeleteContact">Você tem certeza que deseja apagar este contato?</string>
-    <string name="AreYouSureSecretChat">Você tem certeza que deseja começar um chat secreto?</string>
+    <string name="AreYouSureSecretChat">Você tem certeza que deseja começar um chat anonymous?</string>
     <string name="AreYouSureRegistration">Você tem certeza que deseja cancelar o registro?</string>
     <string name="AreYouSureClearHistory">Você tem certeza que deseja limpar o histórico?</string>
     <string name="AreYouSureClearHistoryChannel">Apagar todos os textos e mídias em cache desse bloguezinho?</string>
@@ -1374,7 +1374,7 @@
     <string name="FeatureUnavailable">Desculpe, esta funcionalidade não está disponível para seu país.</string>
     <string name="NoUsernameFound">Não há conta do Telegram com esse nome de usuário</string>
     <string name="BotCantJoinGroups">Esse bot não pode entrar em Panelinhas.</string>
-    <string name="SecretLinkPreviewAlert">Você gostaria de ativar a pré-visualização estendida de links em Chats Secretos? Note que a pré-visualização é gerada nos servidores do Telegram.</string>
+    <string name="SecretLinkPreviewAlert">Você gostaria de ativar a pré-visualização estendida de links em Chats Anonymous? Note que a pré-visualização é gerada nos servidores do Telegram.</string>
     <string name="SecretChatContextBotAlert">Os bots integrados são fornecidos por desenvolvedores terceiros. Para o bot funcionar, os símbolos que você digita depois do nome de usuário do bot são enviados para o respectivo desenvolvedor.</string>
     <string name="RaiseToSpeakAlert">Gostaria de habilitar o \"Levantar para Falar\" para mensagens de voz?</string>
     <string name="EditMessageError">Desculpe, você não pode editar essa mensagem.</string>
